@@ -13,19 +13,15 @@ A basic web-based paint application built using HTML, CSS, and JavaScript. This 
 
 ## Demo
 
-Check out the live demo: [Simple Paint App Demo](https://your-username.github.io/simple-paint-app)
+Check out the live demo: [Simple White Board App](https://niraj401patil.github.io/FS-02-M6/Week_Test_3_WhitBoard/)
 
 ## Getting Started
 
 1. Clone this repository to your local machine:
 
-```bash
-git clone https://github.com/your-username/simple-paint-app.git
-```
-
 2. Open the `index.html` file in a web browser to launch the paint app.
 
-## How It Works
+
 
 ### HTML and CSS
 
